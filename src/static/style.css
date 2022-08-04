@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+#title {
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to left, #e66465, #9198e5);
+}
+
+#label {
+    font-family: 'Roboto', sans-serif;
+}
+
+#textbox {
+    position: fixed;
+    bottom: 0;
+    padding: 0;
+}
+
+#button {
+    position: fixed;
+    bottom: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
